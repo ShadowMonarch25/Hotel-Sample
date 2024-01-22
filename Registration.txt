@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<head>
+<title> Jai's Hotel Registration </title>
+<style>
+
+body {
+background-image: url('hotelbg.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+h1 {
+color: yellow;
+margin-left: 400px;
+margin-top: 200;
+font-size: 65px;
+padding-top: 50px;
+float: left;
+}
+
+article {
+float: right;
+}
+
+th { 
+width: 60px;
+}
+
+footer {
+padding: 10px;
+text-align: center;
+color:white;
+position: center;
+font-size: 20px;
+}
+
+h2 {
+font-color: black;
+font-size: 50px;
+}
+
+b {
+border-style: solid;
+padding: 5px;
+}
+
+table {
+border-style: solid;
+}
+
+</style>
+</head>
+
+<body> 
+
+<article>
+<br />
+<b><a href = "file:///C:/Users/sharewin/Desktop/Hotel%20Page/Hotel%20Main%20Page.html"><font color="black"> Welcome </font></a></b> &nbsp;
+<b><a href = "file:///C:/Users/sharewin/Desktop/Hotel%20Page/About%20Us.html"><font color="black"> About Us </font></a></b> &nbsp;
+<b><a href = "file:///C:/Users/sharewin/Desktop/Hotel%20Page/Gallery.html"><font color="black"> Gallery </font></a></b> &nbsp;
+<b><a href = "file:///C:/Users/sharewin/Desktop/Hotel%20Page/Reservation.html"><font color="black"> Reservation </font></a></b> &nbsp;
+<b><a href = "file:///C:/Users/sharewin/Desktop/Hotel%20Page/Registration.html"><font color="black"> Registration </font></a></b> &nbsp;
+<b><a href = "file:///C:/Users/sharewin/Desktop/Hotel%20Page/Contact%20Us.html"><font color="black"> Contact Us </font></a></b> &nbsp;
+<b><a href = "file:///C:/Users/sharewin/Desktop/Hotel%20Page/Announcement.html"><font color="black"> Announcement </font></a></b> &nbsp;
+
+</article>
+
+<center><h1> JAI'S HOTEL </h1></center>
+
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
+<br /> <br /> <br /> <br /> <br />
+<center>
+<h2> Registration </h2>
+</center>
+<footer>
+<center>
+<form action = "file:///C:/Users/sharewin/Desktop/Hotel%20Page/Reservation.html" target = "_self" method = "get">
+
+<label for = "fname"> First Name: 
+</label> 
+<input type = "text" id = "fname"
+name = "fname" required> <br> 
+
+<label for = "lname"> Last Name: 
+</label>
+<input type = "text" id = "lname"
+name = "lname" required> <br>
+
+<br />
+<input type = "submit" value = "Submit"
+onclick = "alert('You have been Registered as A member of our Hotel we wish to see you soon!! Have a great Day')"> 
+</form>
+</center>
+</footer>
+
+
+</body>
+</html>

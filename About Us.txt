@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<head>
+<title> JAI'S Hotel About Us </title>
+<style>
+
+body {
+background-image: url('hotelbg.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+h1 {
+color: yellow;
+font-size: 65px;
+padding-top: 100px;
+float: center;
+}
+
+article {
+float: right;
+transition: width 3s, height 5s;
+}
+
+th { 
+width: 60px;
+}
+
+footer {
+margin: 100px;
+text-align: left;
+color:black;
+}
+
+h2 {
+font-size: 25px;
+}
+
+b {
+border-style: solid;
+padding: 5px;
+}
+
+div.gallery {
+margin: 5px;
+border: 1px solid #ccc;
+float: left;
+width: 180px;
+}
+
+div.gallery:hover {
+border: 1px solid #777;
+}
+
+div.desc {
+padding: 15px;
+text-align: center;
+}
+
+h3 {
+font-size: 50px;
+}
+
+float left {
+float: left
+width: 150px;
+height: 150px;
+}
+
+float right {
+float: right;
+width: 150px;
+height: 150px;
+}
+
+center {
+text-align: center;
+}
+
+</style>
+</head>
+
+<body> 
+
+<article>
+<br />
+<b><a href = "file:///C:/Users/sharewin/Desktop/Hotel%20Page/Hotel%20Main%20Page.html"><font color="black"> Welcome </font></a></b> &nbsp;
+<b><a href = "file:///C:/Users/sharewin/Desktop/Hotel%20Page/About%20Us.html"><font color="black"> About Us </font></a></b> &nbsp;
+<b><a href = "file:///C:/Users/sharewin/Desktop/Hotel%20Page/Gallery.html"><font color="black"> Gallery </font></a></b> &nbsp;
+<b><a href = "file:///C:/Users/sharewin/Desktop/Hotel%20Page/Reservation.html"><font color="black"> Reservation </font></a></b> &nbsp;
+<b><a href = "file:///C:/Users/sharewin/Desktop/Hotel%20Page/Registration.html"><font color="black"> Registration </font></a></b> &nbsp;
+<b><a href = "file:///C:/Users/sharewin/Desktop/Hotel%20Page/Contact%20Us.html"><font color="black"> Contact Us </font></a></b> &nbsp;
+<b><a href = "file:///C:/Users/sharewin/Desktop/Hotel%20Page/Announcement.html"><font color="black"> Announcement </font></a></b> &nbsp;
+</article>
+
+<center>
+<h1> JAI'S HOTEL </h1>
+</center>
+
+ 
+<center>
+<h2> About Us </h2>
+</center>
+<br>
+<center>
+<img src = "booking.jpg" style = height = "5000px" width = "500px"> </a>
+
+<img src = "star.jpg" style = height = "540px" width = "540px"> </a>
+</center>
+
+<footer>
+<h2>Welcome to Jai Hotel, a place where warmth and genuine hospitality create a
+home away from home. We are delighted to share our heartfelt commitment to ensuring your
+stay is filled with comfort, joy, and cherished memories.</h2>
+
+<h2>Nestled in the heart of Antipolo City, Philippines, our enchanting hotel is more than just a place to rest;
+it's a sanctuary where connections are forged and stories unfold. From the moment you step
+through our doors, you become part of our extended family</h2>
+
+<h2>At Jai Hotel, we believe that every guest is unique and deserves personalized
+attention. Our dedicated team of staff is passionate about going the extra mile to make you
+feel valued, understood, and cared for. From remembering your preferred morning beverage
+to surprising you with thoughtful gestures, we strive to create moments that touch your heart.</h2>
+
+<h2>Immerse yourself in the inviting embrace of our meticulously designed rooms and suites,
+each crafted with love to provide a haven of tranquility. Every detail, from the cozy
+furnishings to the softest linens, has been thoughtfully chosen to cocoon you in a sense of
+well-being.</h2>
+
+<h2>Indulge your senses in our culinary offerings, where our talented chefs pour their passion
+into every dish. From farm-fresh ingredients to locally inspired flavors, our restaurants aim to
+delight your taste buds and create unforgettable dining experiences that warm your soul.</h2>
+
+<h2> But it's not just the physical comforts that make Jai Hotel special; it's the genuine
+connections and shared moments that truly set us apart. We foster a sense of community
+and belonging, whether it's through our engaging social events, cozy common areas that
+invite conversations, or the genuine smiles that greet you around every corner</h2>
+
+<h2>As a responsible member of our community, we are dedicated to making a positive impact
+on both the environment and society. Through sustainable practices, community
+partnerships, and initiatives that give back, we strive to create a brighter future for all</h2>
+
+<h2>Jai Hotel is more than just a place to stay; it's a place where memories are made
+and hearts are touched. We invite you to experience the warmth and genuine care that
+defines our hospitality. Let us be a part of your journey, and together, we'll create moments
+that will forever hold a special place in your heart.</h2>
+
+
+
+</footer>
+
+</body>
+</html>

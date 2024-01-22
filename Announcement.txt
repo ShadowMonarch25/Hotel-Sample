@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<head>
+<title> JAI'S Hotel Announcement Page </title>
+<style>
+
+body {
+background-image: url('hotelbg.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+h1 {
+color: yellow;
+margin-left: 400px;
+margin-top: 200;
+font-size: 65px;
+padding-top: 50px;
+float: left;
+}
+
+article {
+float: right;
+}
+
+th { 
+width: 60px;
+}
+
+footer {
+margin-left: 200px;
+margin-right: 200px;
+padding: 10px;
+text-align: center;
+color:black;
+}
+
+h2 {
+font-color: black;
+font-size: 50px;
+}
+
+b {
+border-style: solid;
+padding: 5px;
+}
+
+h3 { 
+font-size: 35px;
+}
+
+</style>
+</head>
+
+<body> 
+
+<article>
+<br />
+<b><a href = "file:///C:/Users/sharewin/Desktop/Hotel%20Page/Hotel%20Main%20Page.html"><font color="black"> Welcome </font></a></b> &nbsp;
+<b><a href = "file:///C:/Users/sharewin/Desktop/Hotel%20Page/About%20Us.html"><font color="black"> About Us </font></a></b> &nbsp;
+<b><a href = "file:///C:/Users/sharewin/Desktop/Hotel%20Page/Gallery.html"><font color="black"> Gallery </font></a></b> &nbsp;
+<b><a href = "file:///C:/Users/sharewin/Desktop/Hotel%20Page/Reservation.html"><font color="black"> Reservation </font></a></b> &nbsp;
+<b><a href = "file:///C:/Users/sharewin/Desktop/Hotel%20Page/Registration.html"><font color="black"> Registration </font></a></b> &nbsp;
+<b><a href = "file:///C:/Users/sharewin/Desktop/Hotel%20Page/Contact%20Us.html"><font color="black"> Contact Us </font></a></b> &nbsp;
+<b><a href = "file:///C:/Users/sharewin/Desktop/Hotel%20Page/Announcement.html"><font color="black"> Announcement </font></a></b> &nbsp;
+
+</article>
+
+<h1> JAI'S HOTEL </h1>
+
+<br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+
+<footer>
+
+<h2>Latest News and Special Offer</h2>
+<h3> Welcome to our announcement page, your source for the latest updates, promotions, and events happening at JAI'S Hotel.
+Stay tuned for exciting news and exclusive offers!</h3>
+
+<h2>Summer Savings</h2>
+
+<h3>Escape to paradise this summer and enjoy exclusive savings on your stay. Book now and recieve 20% off our best available rates. 
+Experince luxury, relaxation, and warm hospitality at JAI'S Hotel. Limited availability sa don't miss out!</h3>
+
+
+<h2>Grand Opening of Spa & Wellness Center</h2>
+
+
+
+<h3> We are thrilled t oannounce the grand opening state-of-the-art Spa & Wellness Center. Indulge in rejuvenating treatments,
+unwind in our tranquil facilities, and embark on a jouirney of relaxation and self-care. Join us on January 25, 2024 for a special opening
+event with complimentary treatments and exclisive discounts.</h2>
+
+
+<h2>New Culinary Delights at Our Restaurant</h2>
+
+
+<h3>Introduce our new menu at JAI'S Hotel Restaurant. Delight your taste buds with a fushion of flavors, artfully crafted by our talented chefs. Experince an unforgettable
+culinary journey with innovative dishes made from locally sourced ingredients. Book your table now and savor the extraordinary.</h3>
+
+<h2> Announcement Archive </h2>
+
+<h3> Browse our announcement archive to discover more exciting news, promotions, and events from the past. Whether you missed a previous offer or want to reminisce about part
+experince, explore our archive and uncover hidden gems.</h3>
+
+<h2> Contact Us </h2>
+
+<h3>For any inquiries or further information about our announcements, please feel free to contact our friendly team. We're here to assit you and provide aditional details.</h3>
+
+<h3> Phone Number : Smart: 096012345678 </h3>
+<h3> Email : JaiHotel@gmail.com </h3>
+
+<h3>We look forward to welcoming you to JAI'S Hotel and sharing memorable experince with you!</h3>
+
+
+</footer>
+
+</body>
+</html>
